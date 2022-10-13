@@ -1,5 +1,6 @@
 @import "../utilities/controls"
 @import "../utilities/mixins"
+@import "../utilities/derived-variables"
 
 $button-color: $text-strong !default
 $button-background-color: $scheme-main !default
@@ -61,11 +62,13 @@ $button-responsive-sizes: ("mobile": ("small": ($size-small * 0.75), "normal": (
 .button
   @extend %control
   @extend %unselectable
+  @extend %hover-transition
   background-color: $button-background-color
   border-color: $button-border-color
   border-width: $button-border-width
   color: $button-color
   cursor: pointer
+
   @if $button-family
     font-family: $button-family
   justify-content: center
