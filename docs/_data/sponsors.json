@@ -217,13 +217,6 @@
       "width": "160",
       "height": "34"
     },
-    "pillarwm": {
-      "name": "pillarwm",
-      "url": "https://pillarwm.com/",
-      "title": "Pillar",
-      "width": "150",
-      "height": "53"
-    },
     "sanyodigital": {
       "name": "sanyodigital",
       "url": "https://sanyodigital.com/",
@@ -288,8 +281,8 @@
     },
     "123calendars": {
       "name": "123Calendars",
-      "url": "https://www.123calendars.com/",
-      "title": "2022 Calendar",
+      "url": "https://www.123calendars.com/2023-calendar.html",
+      "title": "2023 Calendar",
       "width": "125",
       "height": "28",
       "follow": true
@@ -354,7 +347,7 @@
     },
     "kasynohex": {
       "name": "kasynohex",
-      "url": "https://kasynohex.com/",
+      "url": "https://polskiekasynohex.org/",
       "title": "KasynoHEX Polska",
       "width": "128",
       "height": "45",
@@ -508,6 +501,14 @@
       "title": "qberror",
       "width": "187",
       "height": "69",
+      "follow": true
+    },
+    "cfiblog": {
+      "name": "cfiblog",
+      "url": "https://cfi-blog.org/",
+      "title": "cfi",
+      "width": "48",
+      "height": "48",
       "follow": true
     },
     "casinoshunter": {
@@ -742,6 +743,111 @@
       "title": "Indian online casino",
       "width": "160",
       "height": "80"
+    },
+    "backlinksrocket": {
+      "name": "backlinksrocket",
+      "url": "https://www.backlinksrocket.com/",
+      "title": "backlinksrocket",
+      "width": "160",
+      "height": "80"
+    },
+    "tradingwolf": {
+      "name": "tradingwolf",
+      "url": "https://www.tradingwolf.com/",
+      "title": "Trading Wolf",
+      "width": "150",
+      "height": "29"
+    },
+    "1xbet": {
+      "name": "1xbet",
+      "url": "https://in.1xbet.com/line/cricket",
+      "title": "online cricket betting",
+      "width": "200",
+      "height": "60"
+    },
+    "nodepositpokies": {
+      "name": "nodepositpokies",
+      "url": "https://nodepositpokies.com/",
+      "title": "nodepositpokies",
+      "width": "200",
+      "height": "40"
+    },
+    "codeless": {
+      "name": "codeless",
+      "url": "https://codeless.co/",
+      "title": "codeless",
+      "width": "156",
+      "height": "48"
+    },
+    "utansvensklicens": {
+      "name": "utansvensklicens",
+      "url": "https://utansvensklicens.casino/",
+      "title": "casino utan svensk licens",
+      "width": "89",
+      "height": "48"
+    },
+    "testarna": {
+      "name": "testarna",
+      "url": "https://www.testarna.se/casino/utan-svensk-licens/utlandska/",
+      "title": "Testarna",
+      "width": "196",
+      "height": "45"
+    },
+    "sportonlinebetting": {
+      "name": "sportonlinebetting",
+      "url": "https://sportonlinebetting.net/review/agent-no-wager-casino-review/",
+      "title": "Agent No Wager Casino",
+      "width": "89",
+      "height": "48"
+    },
+    "pillarwm": {
+      "name": "pillarwm",
+      "url": "https://pillarwm.com/financial-advisor/top-financial-advisors-near-me/",
+      "title": "Pillar Wealth",
+      "width": "150",
+      "height": "53"
+    },
+    "istartips": {
+      "name": "istartips",
+      "url": "https://istar.tips/",
+      "title": "istartips",
+      "width": "173",
+      "height": "48"
+    },
+    "4rabet": {
+      "name": "4rabet",
+      "url": "https://4rabet.com/live/cricket",
+      "title": "online cricket betting",
+      "width": "196",
+      "height": "33"
+    },
+    "new-onlinecasinos": {
+      "name": "new-onlinecasinos",
+      "url": "https://new-onlinecasinos.com/",
+      "title": "New Online Casinos",
+      "width": "196",
+      "height": "39"
+    },
+    "casinoszondercruks": {
+      "name": "casinoszondercruks",
+      "url": "https://casinoszondercruks.com/",
+      "title": "casinoszondercruks",
+      "width": "48",
+      "height": "48"
+    },
+    "casinozonderregistratie": {
+      "name": "casinozonderregistratie",
+      "url": "https://casinozonderregistratie.net/",
+      "title": "No Account Casino",
+      "width": "196",
+      "height": "42"
+    },
+    "nongamstopcasinos": {
+      "name": "nongamstopcasinos",
+      "url": "https://nongamstopcasinos.net/",
+      "title": "nongamstopcasinos",
+      "width": "150",
+      "height": "48"
     }
   },
   "home": [
@@ -753,41 +859,29 @@
     "namobot",
     "realtimecommunications",
     "polygon",
-    "inkoop",
+    "backlinksrocket",
     "123calendars",
     "quickbookstoolhub",
     "kasynohex",
     "betrouwbaar-casino",
-    "writepaperfor",
     "reddogcasino",
     "rapidessay",
-    "onlinecasinohex",
-    "idealecasinos",
     "casinotopitaly",
     "nettikasinot",
     "inkedin",
-    "pmibet",
-    "qberror",
+    "cfiblog",
     "casinoshunter",
     "papersowl",
     "listcasino",
-    "flyclipart",
     "slotsempire",
-    "nycjackets",
-    "theleathercity",
     "realcasinoscanada",
-    "jrop",
     "cusl",
-    "boostlikes",
     "casinoutansvensklicens",
     "casinozondercruks",
-    "newbitcoincasinos",
+    "nodepositpokies",
     "casinoenlineahex",
-    "everycasinobonus",
-    "limeup",
     "kasinohai",
     "surebet",
-    "casinoutanlicens",
     "celltrackingapps",
     "refermate",
     "kingcasinobonus",
@@ -795,8 +889,19 @@
     "casinoburst",
     "playcasinoscanada",
     "noneedtostudy",
-    "stayatcasinos",
-    "bluechip"
+    "bluechip",
+    "tradingwolf",
+    "codeless",
+    "utansvensklicens",
+    "testarna",
+    "sportonlinebetting",
+    "pillarwm",
+    "istartips",
+    "4rabet",
+    "new-onlinecasinos",
+    "casinoszondercruks",
+    "casinozonderregistratie",
+    "nongamstopcasinos"
   ],
-  "footer": ["polygon", "inkoop", "kasinohai", "casinoutanlicens"]
+  "footer": ["polygon"]
 }
